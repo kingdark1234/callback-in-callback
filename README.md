@@ -1,8 +1,14 @@
 # AsyncJS-exercises
 This repo contains JS exercises related to async nature of JS
 
-
 ### Excercise 3:
+0. Do npm install
+1. Start server on a terminal using node server.js
+2. open new terminal and start coding
+
+
+
+
 
 Login to server and get user data
 
