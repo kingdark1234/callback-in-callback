@@ -1,11 +1,11 @@
 const request = require('request');
 
 const getUserData = () => {
-  let userData = {};
+  let userDob = null;
 
   // WRITE CODE HERE
 
-  console.log('USER DATE OF BIRTH IS IS', userData.dateOfBirth);
+  console.log('USER DOB IS ', userDob);
 }
 
 
